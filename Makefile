@@ -7,10 +7,10 @@ rebuild:
 	emerge -auNUqv --with-bdeps=y @world
 	emerge -vq @preserved-rebuild
 	emerge -aq --depclean
-	revdep-rebuild
 clean:
 	eclean-dist -d
 	eclean-pkg
 check:
+	revdep-rebuild
 	eix-update
 	eix-test-obsolete
