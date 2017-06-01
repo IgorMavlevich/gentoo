@@ -1,0 +1,1508 @@
+app-admin/eclean-kernel: 0.4.2 none none 
+
+All selected packages: =app-admin/eclean-kernel-0.4.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-admin/keepassx: 2.0.2-r1 none none 
+
+All selected packages: =app-admin/keepassx-2.0.2-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-admin/syslog-ng: 3.7.3 none none 
+
+All selected packages: =app-admin/syslog-ng-3.7.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-antivirus/clamav: 0.99 none none 
+
+All selected packages: =app-antivirus/clamav-0.99
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-arch/dpkg: 1.17.26 none none 
+
+All selected packages: =app-arch/dpkg-1.17.26
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-arch/p7zip-16.02-r1 pulled in by:
+    sys-boot/unetbootin-625 requires app-arch/p7zip
+
+app-arch/unrar: 5.4.5 none none 
+
+All selected packages: =app-arch/unrar-5.4.5
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-crypt/gnupg-2.1.20-r1 pulled in by:
+    dev-vcs/git-2.13.0 requires app-crypt/gnupg
+    x11-plugins/enigmail-1.9.6.1-r1 requires >=app-crypt/gnupg-2.0
+
+app-doc/gimp-help: 2.6.1 none none 
+
+All selected packages: =app-doc/gimp-help-2.6.1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-editors/vim-8.0.0386 pulled in by:
+    app-vim/eselect-syntax-20070506 requires >=app-editors/vim-7.3
+    app-vim/gentoo-syntax-20170225 requires >=app-editors/vim-7.3
+    app-vim/gtk-syntax-20130716 requires >=app-editors/vim-7.3
+    app-vim/ntp-syntax-20031001 requires >=app-editors/vim-7.3
+    app-vim/pam-syntax-20060424 requires >=app-editors/vim-7.3
+    dev-util/ninja-1.7.2 requires app-editors/vim
+    virtual/editor-0 requires app-editors/vim
+
+  app-eselect/eselect-vi-1.1.9 pulled in by:
+    app-editors/vim-8.0.0386 requires >=app-eselect/eselect-vi-1.1
+
+app-misc/mc: 4.8.18-r1 none none 
+
+All selected packages: =app-misc/mc-4.8.18-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-misc/screenfetch: 3.7.0 none none 
+
+All selected packages: =app-misc/screenfetch-3.7.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-office/libreoffice: 5.2.7.2 none none 
+
+All selected packages: =app-office/libreoffice-5.2.7.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-office/libreoffice-l10n-5.2.7.2 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires =app-office/libreoffice-l10n-5.2*
+
+app-portage/eix: 0.32.4 none none 
+
+All selected packages: =app-portage/eix-0.32.4
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-portage/gentoolkit: 0.3.3 none none 
+
+All selected packages: =app-portage/gentoolkit-0.3.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+app-portage/layman: 2.4.2 none none 
+
+All selected packages: =app-portage/layman-2.4.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-text/djvu-3.5.25.3 pulled in by:
+    kde-apps/okular-16.12.3 requires app-text/djvu
+    media-gfx/imagemagick-6.9.8.6 requires app-text/djvu
+
+app-text/pdftk: 2.02 none none 
+
+All selected packages: =app-text/pdftk-2.02
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  app-text/texlive-2015 pulled in by:
+    media-gfx/inkscape-0.91-r3 requires app-text/texlive
+
+cross-avr/avr-libc: 1.8.0 none none 
+
+All selected packages: =cross-avr/avr-libc-1.8.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  cross-avr/binutils-2.26.1 pulled in by:
+    cross-avr/gcc-4.9.3 requires >=cross-avr/binutils-2.20
+    cross-avr/gcc-5.4.0-r3 requires >=cross-avr/binutils-2.20
+
+cross-avr/gcc: 4.9.3 5.4.0-r3 none none 
+
+All selected packages: =cross-avr/gcc-5.4.0-r3 =cross-avr/gcc-4.9.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1193
+Number to remove:     2
+cross-avr/gcc: 4.9.3 none 5.4.0-r3 
+
+All selected packages: =cross-avr/gcc-4.9.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-cpp/clucene-2.3.3.4-r6 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires >=dev-cpp/clucene-2.3.3.4-r2
+
+dev-db/redis: 3.2.5 none none 
+
+All selected packages: =dev-db/redis-3.2.5
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+dev-embedded/arduino: 1.0.5-r1 none none 
+
+All selected packages: =dev-embedded/arduino-1.0.5-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-embedded/avrdude-6.3 pulled in by:
+    dev-embedded/arduino-1.0.5-r1 requires dev-embedded/avrdude
+
+  dev-java/icedtea-bin-3.4.0 pulled in by:
+    virtual/jdk-1.8.0-r3 requires dev-java/icedtea-bin:8
+
+dev-java/icedtea-bin: 7.2.6.10 none 3.4.0 
+
+All selected packages: =dev-java/icedtea-bin-7.2.6.10
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-lang/python-2.7.12 pulled in by:
+    app-admin/eclean-kernel-0.4.2 requires >=dev-lang/python-2.7.5-r2:2.7
+    app-admin/syslog-ng-3.7.3 requires >=dev-lang/python-2.7.5-r2:2.7
+    app-editors/vim-8.0.0386 requires >=dev-lang/python-2.7.5-r2:2.7[threads]
+    app-portage/gentoolkit-0.3.3 requires >=dev-lang/python-2.7.5-r2:2.7[xml(+),threads(+)]
+    app-portage/layman-2.4.2 requires >=dev-lang/python-2.7.5-r2:2.7[xml(+)]
+    app-text/asciidoc-8.6.9-r2 requires >=dev-lang/python-2.7.5-r2:2.7
+    app-text/gnome-doc-utils-0.20.10-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-java/java-config-2.2.0-r3 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-java/javatoolkit-0.3.0-r9 requires >=dev-lang/python-2.7.5-r2:2.7[xml(+)]
+    dev-lang/spidermonkey-1.8.5-r4 requires >=dev-lang/python-2.7.5-r2:2.7[threads]
+    dev-lang/yasm-1.3.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/boost-1.62.0-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/libclc-0.2.0_pre20160209 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/libnl-3.2.28 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/libpwquality-1.3.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/libxml2-2.9.4-r1 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    dev-libs/libxslt-1.1.29-r1 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    dev-libs/newt-0.52.15 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-libs/zziplib-0.13.62-r2 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/PySocks-1.5.6 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/appdirs-1.4.3 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/backports-1.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/backports-ssl-match-hostname-3.5.0.1-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/blessings-1.6-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/certifi-2017.1.23 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/cffi-1.9.1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/chardet-2.3.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/cryptography-1.7.1 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/cython-0.25.2 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/dbus-python-1.2.0-r1 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/docutils-0.12 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/enum34-1.1.6 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/idna-2.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/ipaddress-1.0.14 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/lxml-3.7.3 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/m2crypto-0.24.0 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/maybe-0.4.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/ndg-httpsclient-0.4.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/numpy-1.10.4 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/packaging-16.8 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pillow-3.4.2-r1 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/ply-3.9 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/py-1.4.30 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pyasn1-0.1.8 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pycairo-1.10.0-r5 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/pycparser-2.14 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pyelftools-0.24 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pygments-2.1.1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pygobject-2.28.6-r55 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pygtk-2.24.0-r4 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pymountboot-0.2.2 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pyopenssl-16.2.0 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/pyparsing-2.1.10 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pytest-3.0.3 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pytest-runner-2.10.1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/python-ptrace-0.8.1-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/pyxattr-0.5.5 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/requests-2.12.5 requires >=dev-lang/python-2.7.5-r2:2.7[threads(+)]
+    dev-python/setuptools-34.0.2-r1 requires >=dev-lang/python-2.7.5-r2:2.7[xml(+)]
+    dev-python/setuptools_scm-1.15.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/six-1.10.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/ssl-fetch-0.4 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-python/urllib3-1.16 requires >=dev-lang/python-2.7.5-r2:2.7[ssl(+)]
+    dev-qt/qtwebkit-5.6.2 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-util/boost-build-1.62.0-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    dev-util/gdbus-codegen-2.50.3 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    dev-util/itstool-2.0.2 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    dev-vcs/git-2.13.0 requires >=dev-lang/python-2.7.5-r2:2.7
+    gnome-base/gconf-3.2.6-r4 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    mail-client/thunderbird-45.8.0 requires >=dev-lang/python-2.7.5-r2:2.7[ncurses,sqlite,ssl,threads]
+    media-gfx/gimp-2.8.14-r2 requires >=dev-lang/python-2.7.5-r2:2.7
+    media-gfx/graphviz-2.38.0-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    media-gfx/inkscape-0.91-r3 requires >=dev-lang/python-2.7.5-r2:2.7[xml]
+    media-gfx/uniconvertor-2.0_pre379-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    media-libs/alsa-lib-1.1.2 requires >=dev-lang/python-2.7.5-r2:2.7
+    media-libs/mesa-13.0.5 requires >=dev-lang/python-2.7.5-r2:2.7
+    media-libs/vigra-1.9.0 requires dev-lang/python:2.7, >=dev-lang/python-2.7.5-r2:2.7[threads,xml]
+    net-analyzer/speedtest-cli-0.3.4-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    net-dns/avahi-0.6.32 requires >=dev-lang/python-2.7.5-r2:2.7[gdbm]
+    net-libs/libproxy-0.4.13-r2 requires >=dev-lang/python-2.7.5-r2:2.7
+    net-print/cups-2.1.4 requires >=dev-lang/python-2.7.5-r2:2.7
+    net-wireless/crda-3.18-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    sys-apps/file-5.30 requires >=dev-lang/python-2.7.5-r2:2.7
+    sys-apps/kmod-23 requires >=dev-lang/python-2.7.5-r2:2.7
+    sys-apps/portage-2.3.5 requires >=dev-lang/python-2.7.5-r2:2.7[bzip2(+),threads(+)], >=dev-lang/python-2.7.5-r2:2.7[ssl(+)]
+    sys-apps/usbutils-008-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    sys-devel/llvm-3.9.1-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    sys-libs/cracklib-2.9.6-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    virtual/python-ipaddress-1.0-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    www-client/firefox-53.0.3 requires >=dev-lang/python-2.7.5-r2:2.7[ncurses,sqlite,ssl,threads]
+    x11-plugins/enigmail-1.9.6.1-r1 requires >=dev-lang/python-2.7.5-r2:2.7
+    x11-proto/xcb-proto-1.12-r2 requires >=dev-lang/python-2.7.5-r2:2.7
+
+  dev-lang/python-3.4.5 pulled in by:
+    app-admin/eclean-kernel-0.4.2 requires dev-lang/python:3.4
+    app-editors/vim-8.0.0386 requires dev-lang/python:3.4[threads]
+    app-misc/ca-certificates-20161102.3.27.2-r2 requires dev-lang/python:3.4
+    app-office/libreoffice-5.2.7.2 requires dev-lang/python:3.4[threads,xml]
+    app-portage/gentoolkit-0.3.3 requires dev-lang/python:3.4[xml(+),threads(+)]
+    app-portage/layman-2.4.2 requires dev-lang/python:3.4[xml(+)]
+    app-text/iso-codes-3.74 requires dev-lang/python:3.4
+    dev-embedded/libftdi-1.2-r1 requires dev-lang/python:3.4
+    dev-java/java-config-2.2.0-r3 requires dev-lang/python:3.4
+    dev-libs/boost-1.62.0-r1 requires dev-lang/python:3.4
+    dev-libs/gobject-introspection-1.50.0 requires dev-lang/python:3.4[xml]
+    dev-libs/libevdev-1.5.6 requires dev-lang/python:3.4
+    dev-libs/libixion-0.11.1 requires dev-lang/python:3.4
+    dev-libs/libnl-3.2.28 requires dev-lang/python:3.4
+    dev-libs/liborcus-0.11.2 requires dev-lang/python:3.4
+    dev-libs/libpwquality-1.3.0 requires dev-lang/python:3.4
+    dev-libs/libxml2-2.9.4-r1 requires dev-lang/python:3.4[xml]
+    dev-python/PySocks-1.5.6 requires dev-lang/python:3.4
+    dev-python/appdirs-1.4.3 requires dev-lang/python:3.4
+    dev-python/backports-1.0 requires dev-lang/python:3.4
+    dev-python/backports-ssl-match-hostname-3.5.0.1-r1 requires dev-lang/python:3.4
+    dev-python/blessings-1.6-r1 requires dev-lang/python:3.4
+    dev-python/certifi-2017.1.23 requires dev-lang/python:3.4
+    dev-python/cffi-1.9.1 requires dev-lang/python:3.4
+    dev-python/chardet-2.3.0 requires dev-lang/python:3.4
+    dev-python/cryptography-1.7.1 requires dev-lang/python:3.4[threads(+)]
+    dev-python/cython-0.25.2 requires dev-lang/python:3.4[threads(+)]
+    dev-python/dbus-python-1.2.0-r1 requires dev-lang/python:3.4[threads(+)]
+    dev-python/docutils-0.12 requires dev-lang/python:3.4
+    dev-python/idna-2.0 requires dev-lang/python:3.4
+    dev-python/lxml-3.7.3 requires dev-lang/python:3.4
+    dev-python/maybe-0.4.0 requires dev-lang/python:3.4
+    dev-python/ndg-httpsclient-0.4.0 requires dev-lang/python:3.4
+    dev-python/numpy-1.10.4 requires dev-lang/python:3.4[threads(+)]
+    dev-python/packaging-16.8 requires dev-lang/python:3.4
+    dev-python/pillow-3.4.2-r1 requires dev-lang/python:3.4[threads(+)]
+    dev-python/ply-3.9 requires dev-lang/python:3.4
+    dev-python/py-1.4.30 requires dev-lang/python:3.4
+    dev-python/pyasn1-0.1.8 requires dev-lang/python:3.4
+    dev-python/pycairo-1.10.0-r5 requires dev-lang/python:3.4[threads(+)]
+    dev-python/pycparser-2.14 requires dev-lang/python:3.4
+    dev-python/pyelftools-0.24 requires dev-lang/python:3.4
+    dev-python/pygments-2.1.1 requires dev-lang/python:3.4
+    dev-python/pymountboot-0.2.2 requires dev-lang/python:3.4
+    dev-python/pyopenssl-16.2.0 requires dev-lang/python:3.4[threads(+)]
+    dev-python/pyparsing-2.1.10 requires dev-lang/python:3.4
+    dev-python/pytest-3.0.3 requires dev-lang/python:3.4
+    dev-python/pytest-runner-2.10.1 requires dev-lang/python:3.4
+    dev-python/python-ptrace-0.8.1-r1 requires dev-lang/python:3.4
+    dev-python/pyxattr-0.5.5 requires dev-lang/python:3.4
+    dev-python/requests-2.12.5 requires dev-lang/python:3.4[threads(+)]
+    dev-python/setuptools-34.0.2-r1 requires dev-lang/python:3.4[xml(+)]
+    dev-python/setuptools_scm-1.15.0 requires dev-lang/python:3.4
+    dev-python/six-1.10.0 requires dev-lang/python:3.4
+    dev-python/ssl-fetch-0.4 requires dev-lang/python:3.4
+    dev-python/urllib3-1.16 requires dev-lang/python:3.4[ssl(+)]
+    dev-qt/qtdeclarative-5.6.2 requires dev-lang/python:3.4
+    dev-util/gdbus-codegen-2.50.3 requires dev-lang/python:3.4[xml]
+    dev-util/ninja-1.7.2 requires dev-lang/python:3.4
+    kde-frameworks/ki18n-5.29.0 requires dev-lang/python:3.4
+    media-gfx/fontforge-20160404 requires dev-lang/python:3.4
+    media-gfx/hugin-2016.2.0 requires dev-lang/python:3.4
+    media-libs/libepoxy-1.4.1 requires dev-lang/python:3.4[xml(+)]
+    net-analyzer/speedtest-cli-0.3.4-r1 requires dev-lang/python:3.4
+    net-libs/libsoup-2.56.0 requires dev-lang/python:3.4
+    sys-apps/file-5.30 requires dev-lang/python:3.4
+    sys-apps/kmod-23 requires dev-lang/python:3.4
+    sys-apps/portage-2.3.5 requires dev-lang/python:3.4[bzip2(+),threads(+)], dev-lang/python:3.4[ssl(+)]
+    sys-apps/util-linux-2.28.2 requires dev-lang/python:3.4
+    virtual/python-ipaddress-1.0-r1 requires dev-lang/python:3.4
+    x11-libs/libxcb-1.12-r2 requires dev-lang/python:3.4[xml]
+    x11-proto/xcb-proto-1.12-r2 requires dev-lang/python:3.4
+
+  dev-libs/fribidi-0.19.6 pulled in by:
+    media-libs/libass-0.13.6 requires >=dev-libs/fribidi-0.19.5-r1[abi_x86_32(-),abi_x86_64(-)]
+    media-video/vlc-2.2.4-r1 requires dev-libs/fribidi:0
+
+  dev-libs/glib-2.50.3-r1 pulled in by:
+    app-accessibility/at-spi2-atk-2.22.0 requires >=dev-libs/glib-2.32:2[abi_x86_32(-),abi_x86_64(-)]
+    app-accessibility/at-spi2-core-2.22.1 requires >=dev-libs/glib-2.36:2[abi_x86_32(-),abi_x86_64(-)]
+    app-admin/syslog-ng-3.7.3 requires >=dev-libs/glib-2.10.1:2
+    app-misc/mc-4.8.18-r1 requires >=dev-libs/glib-2.26.0:2
+    app-text/poppler-0.45.0 requires dev-libs/glib:2
+    dev-cpp/glibmm-2.50.1 requires >=dev-libs/glib-2.50.0:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-dotnet/gtk-sharp-2.12.21 requires >=dev-libs/glib-2.31
+    dev-dotnet/libgdiplus-4.2-r3 requires >=dev-libs/glib-2.2.3:2
+    dev-java/icedtea-bin-3.4.0 requires >=dev-libs/glib-2.42:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-java/icedtea-bin-7.2.6.10 requires >=dev-libs/glib-2.42:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-libs/atk-2.22.0 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-libs/dbus-glib-0.102 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-libs/fribidi-0.19.6 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-libs/gobject-introspection-1.50.0 requires >=dev-libs/glib-2.50:2
+    dev-libs/libcroco-0.6.12-r1 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-libs/libgudev-230-r1 requires >=dev-libs/glib-2.22.0:2=[abi_x86_32(-),abi_x86_64(-)], >=dev-libs/glib-2.22.0:2/2=[abi_x86_32(-),abi_x86_64(-)]
+    dev-python/pygobject-2.28.6-r55 requires >=dev-libs/glib-2.24.0:2
+    dev-python/pygtk-2.24.0-r4 requires >=dev-libs/glib-2.8:2
+    dev-qt/qtcore-4.8.7-r2 requires dev-libs/glib:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtcore-5.6.2-r1 requires dev-libs/glib:2
+    dev-qt/qtgui-4.8.7 requires dev-libs/glib:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtgui-5.6.2 requires dev-libs/glib:2
+    dev-qt/qtwebkit-4.8.7 requires dev-libs/glib:2[abi_x86_32(-),abi_x86_64(-)]
+    dev-util/desktop-file-utils-0.23 requires >=dev-libs/glib-2.12:2
+    dev-util/gdbus-codegen-2.50.3 requires >=dev-libs/glib-2.50.3:2
+    dev-util/gtk-update-icon-cache-3.22.2 requires >=dev-libs/glib-2.49.4:2
+    dev-util/pkgconfig-0.28-r2 requires >=dev-libs/glib-2.34.3[abi_x86_32(-),abi_x86_64(-)]
+    gnome-base/dconf-0.26.0-r1 requires >=dev-libs/glib-2.44.0:2
+    gnome-base/gconf-3.2.6-r4 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    gnome-base/gsettings-desktop-schemas-3.22.0 requires >=dev-libs/glib-2.31:2
+    gnome-base/libglade-2.6.4-r2 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    gnome-base/librsvg-2.40.17 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    gnome-extra/zenity-3.22.0 requires >=dev-libs/glib-2.8:2
+    kde-plasma/plasma-pa-5.8.6 requires dev-libs/glib:2
+    mail-client/thunderbird-45.8.0 requires >=dev-libs/glib-2.26:2
+    media-gfx/gimp-2.8.14-r2 requires >=dev-libs/glib-2.30.2:2
+    media-gfx/graphviz-2.38.0-r1 requires >=dev-libs/glib-2.11.1:2
+    media-gfx/inkscape-0.91-r3 requires >=dev-libs/glib-2.28
+    media-libs/gegl-0.2.0-r2 requires >=dev-libs/glib-2.28:2
+    media-libs/gst-plugins-base-0.10.36-r2 requires >=dev-libs/glib-2.38.2-r1:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gst-plugins-base-1.10.3 requires >=dev-libs/glib-2.38.2-r1:2[abi_x86_32(-),abi_x86_64(-)], >=dev-libs/glib-2.40.0:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gst-plugins-good-1.10.3 requires >=dev-libs/glib-2.40.0:2[abi_x86_32(-),abi_x86_64(-)], >=dev-libs/glib-2.38.2-r1:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gstreamer-0.10.36-r2 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gstreamer-1.10.3 requires >=dev-libs/glib-2.40.0:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/harfbuzz-1.4.5 requires >=dev-libs/glib-2.38:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libcanberra-0.30-r5 requires >=dev-libs/glib-2.32:2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/liblqr-0.4.2-r1 requires dev-libs/glib:2
+    media-plugins/gst-plugins-libav-1.10.4 requires >=dev-libs/glib-2.40.0:2[abi_x86_32(-),abi_x86_64(-)]
+    media-sound/pulseaudio-10.0 requires >=dev-libs/glib-2.4.0:2[abi_x86_32(-),abi_x86_64(-)]
+    media-video/guvcview-2.0.3 requires >=dev-libs/glib-2.10
+    net-dns/avahi-0.6.32 requires dev-libs/glib:2[abi_x86_32(-),abi_x86_64(-)]
+    net-libs/glib-networking-2.50.0 requires >=dev-libs/glib-2.46.0:2[abi_x86_32(-),abi_x86_64(-)]
+    net-libs/libmbim-1.14.0 requires >=dev-libs/glib-2.32:2
+    net-libs/libqmi-1.16.2 requires >=dev-libs/glib-2.32
+    net-libs/libsoup-2.56.0 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    net-misc/modemmanager-1.6.4 requires >=dev-libs/glib-2.36.0:2
+    net-misc/networkmanager-1.4.4-r1 requires >=dev-libs/glib-2.37.6:2[abi_x86_32(-),abi_x86_64(-)]
+    net-p2p/transmission-2.92-r2 requires >=dev-libs/glib-2.32
+    net-print/cups-filters-1.13.5 requires dev-libs/glib:2
+    net-wireless/bluez-5.43-r1 requires >=dev-libs/glib-2.28:2[abi_x86_32(-),abi_x86_64(-)]
+    sys-apps/accountsservice-0.6.43 requires >=dev-libs/glib-2.37.3:2
+    sys-auth/consolekit-1.1.0-r1 requires >=dev-libs/glib-2.40:2/2=[dbus], >=dev-libs/glib-2.40:2=[dbus]
+    sys-auth/polkit-0.113 requires >=dev-libs/glib-2.32:2
+    sys-auth/polkit-pkla-compat-0.1 requires >=dev-libs/glib-2.30
+    sys-auth/polkit-qt-0.112.0-r1 requires dev-libs/glib:2
+    sys-block/gparted-0.27.0 requires >=dev-libs/glib-2:2
+    sys-fs/mtpfs-1.0 requires dev-libs/glib:2
+    sys-fs/udisks-2.1.8 requires >=dev-libs/glib-2.36:2
+    sys-power/upower-0.99.4 requires >=dev-libs/glib-2.34:2
+    www-client/firefox-53.0.3 requires >=dev-libs/glib-2.26:2
+    www-plugins/adobe-flash-25.0.0.171 requires dev-libs/glib:2[abi_x86_32(-),abi_x86_64(-)]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires dev-libs/glib:2/2=, dev-libs/glib:2=
+    x11-apps/intel-gpu-tools-1.15 requires dev-libs/glib:2
+    x11-libs/cairo-1.14.8 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gdk-pixbuf-2.36.6 requires >=dev-libs/glib-2.48.0:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gtk+-2.24.31-r1 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gtk+-3.22.15 requires >=dev-libs/glib-2.49.4:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/pango-1.40.5 requires >=dev-libs/glib-2.34.3:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/wxGTK-2.8.12.1-r1 requires dev-libs/glib:2
+    x11-libs/wxGTK-3.0.2.0-r2 requires >=dev-libs/glib-2.22:2[abi_x86_32(-),abi_x86_64(-)]
+    x11-misc/shared-mime-info-1.4 requires >=dev-libs/glib-2
+    x11-themes/sound-theme-freedesktop-0.8 requires dev-libs/glib:2
+
+  dev-libs/libusb-compat-0.1.5-r2 pulled in by:
+    virtual/libusb-0-r2 requires >=dev-libs/libusb-compat-0.1.5-r2[abi_x86_32(-),abi_x86_64(-)]
+
+  dev-libs/libzip-1.0.1 pulled in by:
+    app-text/ebook-tools-0.2.2-r1 requires dev-libs/libzip:0/0=, dev-libs/libzip:=
+
+dev-python/maybe: 0.4.0 none none 
+
+All selected packages: =dev-python/maybe-0.4.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-qt/qttranslations-4.8.7 pulled in by:
+    dev-qt/qtcore-4.8.7-r2 requires ~dev-qt/qttranslations-4.8.7
+
+dev-qt/qttranslations: 5.6.2 none 4.8.7 
+
+All selected packages: =dev-qt/qttranslations-5.6.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+dev-tex/culmus-latex: 0.7 none none 
+
+All selected packages: =dev-tex/culmus-latex-0.7
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+dev-tex/ivritex: 1.1.2 none none 
+
+All selected packages: =dev-tex/ivritex-1.1.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+dev-tex/latex2rtf: 2.3.11 none none 
+
+All selected packages: =dev-tex/latex2rtf-2.3.11
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-texlive/texlive-fontsrecommended-2015 pulled in by:
+    app-text/texlive-2015 requires >=dev-texlive/texlive-fontsrecommended-2015
+    dev-tex/leaflet-20041222 requires dev-texlive/texlive-fontsrecommended
+    dev-texlive/texlive-latexextra-2015-r1 requires >=dev-texlive/texlive-fontsrecommended-2014
+    dev-texlive/texlive-mathextra-2015 requires >=dev-texlive/texlive-fontsrecommended-2015
+
+dev-texlive/texlive-langarabic: 2015 none none 
+
+All selected packages: =dev-texlive/texlive-langarabic-2015
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-texlive/texlive-langcyrillic-2015 pulled in by:
+    app-text/texlive-2015 requires >=dev-texlive/texlive-langcyrillic-2015
+
+  dev-texlive/texlive-langother-2015 pulled in by:
+    app-text/texlive-2015 requires >=dev-texlive/texlive-langother-2015
+
+  dev-texlive/texlive-latex-2015 pulled in by:
+    app-text/texlive-2015 requires >=dev-texlive/texlive-latex-2015
+    dev-tex/latex-beamer-3.36 requires dev-texlive/texlive-latex
+    dev-tex/xcolor-2.11 requires dev-texlive/texlive-latex
+    dev-texlive/texlive-bibtexextra-2015 requires >=dev-texlive/texlive-latex-2015
+    dev-texlive/texlive-formatsextra-2015 requires >=dev-texlive/texlive-latex-2008
+    dev-texlive/texlive-humanities-2015 requires >=dev-texlive/texlive-latex-2015
+    dev-texlive/texlive-langcyrillic-2015 requires >=dev-texlive/texlive-latex-2015
+    dev-texlive/texlive-latexrecommended-2015-r1 requires >=dev-texlive/texlive-latex-2015
+    dev-texlive/texlive-mathextra-2015 requires >=dev-texlive/texlive-latex-2015
+
+  dev-texlive/texlive-xetex-2015 pulled in by:
+    app-text/texlive-2015 requires >=dev-texlive/texlive-xetex-2015
+    dev-texlive/texlive-formatsextra-2015 requires dev-texlive/texlive-xetex
+
+dev-util/android-tools: 5.1.1_p13 none none 
+
+All selected packages: =dev-util/android-tools-5.1.1_p13
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+dev-util/bless: 0.6.0-r2 none none 
+
+All selected packages: =dev-util/bless-0.6.0-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  dev-vcs/git-2.13.0 pulled in by:
+    app-portage/layman-2.4.2 requires dev-vcs/git
+
+  games-action/minetest-0.4.14 pulled in by:
+    games-action/minetest_game-0.4.14 requires >=games-action/minetest-0.4.14
+
+games-action/minetest_game: 0.4.14 none none 
+
+All selected packages: =games-action/minetest_game-0.4.14
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+games-misc/wtf: 20090924 none none 
+
+All selected packages: =games-misc/wtf-20090924
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+games-strategy/hedgewars: 0.9.22-r1 none none 
+
+All selected packages: =games-strategy/hedgewars-0.9.22-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  games-util/steam-games-meta-0-r20160812 pulled in by:
+    games-util/steam-meta-0-r20160817 requires games-util/steam-games-meta[steamruntime]
+
+games-util/steam-meta: 0-r20160817 none none 
+
+All selected packages: =games-util/steam-meta-0-r20160817
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  gnome-extra/zenity-3.22.0 pulled in by:
+    games-util/steam-launcher-1.0.0.53 requires >=gnome-extra/zenity-3
+
+kde-apps/ark: 16.12.3 none none 
+
+All selected packages: =kde-apps/ark-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-apps/dolphin: 16.12.3 none none 
+
+All selected packages: =kde-apps/dolphin-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-apps/filelight: 16.12.3 none none 
+
+All selected packages: =kde-apps/filelight-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-apps/gwenview: 16.12.3 none none 
+
+All selected packages: =kde-apps/gwenview-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-apps/kate: 16.12.3 none none 
+
+All selected packages: =kde-apps/kate-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  kde-apps/konsole-16.12.3 pulled in by:
+    kde-misc/yakuake-3.0.2 requires >=kde-apps/konsole-14.12.0:5
+
+kde-apps/okular: 16.12.3 none none 
+
+All selected packages: =kde-apps/okular-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-apps/spectacle: 16.12.3 none none 
+
+All selected packages: =kde-apps/spectacle-16.12.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-misc/kdeconnect: 1.0.3 none none 
+
+All selected packages: =kde-misc/kdeconnect-1.0.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-misc/yakuake: 3.0.2 none none 
+
+All selected packages: =kde-misc/yakuake-3.0.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  kde-plasma/bluedevil-5.8.6 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/bluedevil-5.8.6:5
+
+  kde-plasma/kde-cli-tools-5.8.6-r1 pulled in by:
+    kde-plasma/bluedevil-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/breeze-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/khotkeys-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/kinfocenter-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/kscreen-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/kscreenlocker-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/kwin-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/oxygen-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/plasma-desktop-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/plasma-workspace-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/powerdevil-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+    kde-plasma/sddm-kcm-5.8.6 requires >=kde-plasma/kde-cli-tools-5.8.6:5
+
+  kde-plasma/kdeplasma-addons-5.8.6 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/kdeplasma-addons-5.8.6:5
+
+  kde-plasma/kscreenlocker-5.8.6 pulled in by:
+    kde-plasma/kwin-5.8.6 requires >=kde-plasma/kscreenlocker-5.8.6:5
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/kscreenlocker-5.8.6:5
+    kde-plasma/plasma-workspace-5.8.6 requires >=kde-plasma/kscreenlocker-5.8.6:5
+
+  kde-plasma/plasma-desktop-5.8.6 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/plasma-desktop-5.8.6:5
+
+kde-plasma/plasma-meta: 5.8.6 none none 
+
+All selected packages: =kde-plasma/plasma-meta-5.8.6
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-plasma/plasma-nm: 5.8.6 none none 
+
+All selected packages: =kde-plasma/plasma-nm-5.8.6
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+kde-plasma/plasma-pa: 5.8.6 none none 
+
+All selected packages: =kde-plasma/plasma-pa-5.8.6
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  kde-plasma/powerdevil-5.8.6 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/powerdevil-5.8.6:5
+
+  kde-plasma/systemsettings-5.8.6 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires >=kde-plasma/systemsettings-5.8.6:5
+
+mail-client/thunderbird: 45.8.0 none none 
+
+All selected packages: =mail-client/thunderbird-45.8.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-fonts/corefonts: 1-r7 none none 
+
+All selected packages: =media-fonts/corefonts-1-r7
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  media-fonts/culmus-0.120-r4 pulled in by:
+    dev-tex/culmus-latex-0.7 requires >=media-fonts/culmus-0.110[fancy]
+
+  media-fonts/font-bitstream-100dpi-1.0.3 pulled in by:
+    games-util/steam-client-meta-0-r20160828 requires media-fonts/font-bitstream-100dpi
+
+  media-gfx/gimp-2.8.14-r2 pulled in by:
+    app-doc/gimp-help-2.6.1 requires >=media-gfx/gimp-2.4
+    media-plugins/gimp-lqr-0.7.2 requires >=media-gfx/gimp-2.8
+
+media-gfx/gimp-arrow-brushes: 20120122 none none 
+
+All selected packages: =media-gfx/gimp-arrow-brushes-20120122
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/graphviz: 2.38.0-r1 none none 
+
+All selected packages: =media-gfx/graphviz-2.38.0-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/hugin: 2016.2.0 none none 
+
+All selected packages: =media-gfx/hugin-2016.2.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/icoutils: 0.31.0 none none 
+
+All selected packages: =media-gfx/icoutils-0.31.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/inkscape: 0.91-r3 none none 
+
+All selected packages: =media-gfx/inkscape-0.91-r3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/scantailor: 0.9.12.2 none none 
+
+All selected packages: =media-gfx/scantailor-0.9.12.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/slic3r: 1.2.9-r2 none none 
+
+All selected packages: =media-gfx/slic3r-1.2.9-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-gfx/xsane: 0.999-r2 none none 
+
+All selected packages: =media-gfx/xsane-0.999-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  media-libs/alsa-lib-1.1.2 pulled in by:
+    dev-java/icedtea-bin-3.4.0 requires >=media-libs/alsa-lib-1.0[abi_x86_32(-),abi_x86_64(-)]
+    dev-java/icedtea-bin-7.2.6.10 requires >=media-libs/alsa-lib-1.0[abi_x86_32(-),abi_x86_64(-)]
+    mail-client/thunderbird-45.8.0 requires media-libs/alsa-lib
+    media-gfx/gimp-2.8.14-r2 requires media-libs/alsa-lib
+    media-libs/gst-plugins-base-1.10.3 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libcanberra-0.30-r5 requires media-libs/alsa-lib:=[abi_x86_32(-),abi_x86_64(-)], media-libs/alsa-lib:0/0=[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libsdl-1.2.15-r9 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libsdl2-2.0.4 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libsndfile-1.0.28 requires media-libs/alsa-lib
+    media-libs/openal-1.15.1-r2 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/portaudio-19_pre20140130 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-plugins/alsa-plugins-1.1.1-r1 requires >=media-libs/alsa-lib-1.1.1:0/0=[abi_x86_32(-),abi_x86_64(-)], >=media-libs/alsa-lib-1.1.1:=[abi_x86_32(-),abi_x86_64(-)]
+    media-sound/alsa-utils-1.1.2 requires >=media-libs/alsa-lib-1.1.2
+    media-sound/alsamixer-app-0.1 requires media-libs/alsa-lib
+    media-sound/audacity-2.0.5 requires media-libs/alsa-lib
+    media-sound/pulseaudio-10.0 requires >=media-libs/alsa-lib-1.0.19
+    media-video/ffmpeg-3.2.4 requires >=media-libs/alsa-lib-1.0.27.2[abi_x86_32(-),abi_x86_64(-)]
+    media-video/simplescreenrecorder-0.3.8 requires media-libs/alsa-lib:0/0=, media-libs/alsa-lib:0=
+    media-video/vlc-2.2.4-r1 requires >=media-libs/alsa-lib-1.0.24:0
+    net-misc/teamviewer-12.0.76279 requires media-libs/alsa-lib[abi_x86_32(-)]
+    www-client/firefox-53.0.3 requires media-libs/alsa-lib
+    www-plugins/freshplayerplugin-0.3.5-r2 requires media-libs/alsa-lib:0/0=, media-libs/alsa-lib:=
+
+  media-libs/glfw-3.2.1 pulled in by:
+    app-text/mupdf-1.11-r1 requires >=media-libs/glfw-3.2
+
+  media-libs/gstreamer-0.10.36-r2 pulled in by:
+    dev-qt/qtwebkit-4.8.7 requires >=media-libs/gstreamer-0.10.36-r1:0.10[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gst-plugins-base-0.10.36-r2 requires >=media-libs/gstreamer-0.10.36-r2:0.10[abi_x86_32(-),abi_x86_64(-)], >=media-libs/gstreamer-0.10.36:0.10[introspection,abi_x86_32(-),abi_x86_64(-)]
+
+  media-libs/gstreamer-1.10.3 pulled in by:
+    mail-client/thunderbird-45.8.0 requires >=media-libs/gstreamer-1.4.5:1.0
+    media-libs/gst-plugins-base-1.10.3 requires >=media-libs/gstreamer-1.10.3:1.0[introspection,abi_x86_32(-),abi_x86_64(-)], >=media-libs/gstreamer-1.2.4-r1:1.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gst-plugins-good-1.10.3 requires >=media-libs/gstreamer-1.2.4-r1:1.0[abi_x86_32(-),abi_x86_64(-)], >=media-libs/gstreamer-1.10.3:1.0[abi_x86_32(-),abi_x86_64(-)]
+    media-plugins/gst-plugins-libav-1.10.4 requires >=media-libs/gstreamer-1.10.3:1.0[abi_x86_32(-),abi_x86_64(-)]
+
+  media-libs/libcanberra-0.30-r5 pulled in by:
+    kde-plasma/plasma-pa-5.8.6 requires media-libs/libcanberra
+    mail-client/thunderbird-45.8.0 requires media-libs/libcanberra:*
+
+  media-libs/libogg-1.3.2 pulled in by:
+    games-action/minetest-0.4.14 requires media-libs/libogg
+    media-libs/flac-1.3.2-r1 requires >=media-libs/libogg-1.3.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/gst-plugins-base-1.10.3 requires >=media-libs/libogg-1.3.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libsndfile-1.0.28 requires >=media-libs/libogg-1.3.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libtheora-1.1.1-r1 requires >=media-libs/libogg-1.3.0:=[abi_x86_32(-),abi_x86_64(-)], >=media-libs/libogg-1.3.0:0/0=[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libvorbis-1.3.5 requires >=media-libs/libogg-1.3.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/sdl-mixer-1.2.12-r4 requires >=media-libs/libogg-1.3.0[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/speex-1.2_rc1-r2 requires media-libs/libogg:=, media-libs/libogg:0/0=
+    media-video/vlc-2.2.4-r1 requires >=media-libs/libogg-1:0
+
+  media-libs/libtheora-1.1.1-r1 pulled in by:
+    media-video/vlc-2.2.4-r1 requires >=media-libs/libtheora-1.0_beta3:0
+
+  media-libs/libtxc_dxtn-1.0.1-r1 pulled in by:
+    games-util/steam-games-meta-0-r20160812 requires media-libs/libtxc_dxtn[abi_x86_32]
+
+  media-libs/openal-1.15.1-r2 pulled in by:
+    games-action/minetest-0.4.14 requires media-libs/openal
+
+  media-libs/sdl-image-1.2.12-r1 pulled in by:
+    games-strategy/hedgewars-0.9.22-r1 requires media-libs/sdl-image[png]
+
+  media-libs/sdl-ttf-2.0.11-r1 pulled in by:
+    games-strategy/hedgewars-0.9.22-r1 requires media-libs/sdl-ttf
+
+  media-plugins/alsa-plugins-1.1.1-r1 pulled in by:
+    media-sound/pulseaudio-10.0 requires >=media-plugins/alsa-plugins-1.0.27-r1[pulseaudio,abi_x86_32(-),abi_x86_64(-)]
+
+media-plugins/gimp-lqr: 0.7.2 none none 
+
+All selected packages: =media-plugins/gimp-lqr-0.7.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-sound/alsamixer-app: 0.1 none none 
+
+All selected packages: =media-sound/alsamixer-app-0.1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-sound/audacity: 2.0.5 none none 
+
+All selected packages: =media-sound/audacity-2.0.5
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  media-sound/pulseaudio-10.0 pulled in by:
+    kde-plasma/plasma-pa-5.8.6 requires media-sound/pulseaudio[gnome]
+    media-plugins/alsa-plugins-1.1.1-r1 requires >=media-sound/pulseaudio-2.1-r1[abi_x86_32(-),abi_x86_64(-)]
+
+media-sound/tomahawk: 0.9.0_pre20161029-r1 none none 
+
+All selected packages: =media-sound/tomahawk-0.9.0_pre20161029-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  media-video/ffmpeg-3.2.4 pulled in by:
+    kde-apps/ffmpegthumbs-16.12.3 requires media-video/ffmpeg:0/55.57.57=, media-video/ffmpeg:0=
+    kde-frameworks/kfilemetadata-5.29.0 requires media-video/ffmpeg:0=, media-video/ffmpeg:0/55.57.57=
+    media-libs/gegl-0.2.0-r2 requires media-video/ffmpeg:0=, media-video/ffmpeg:0/55.57.57=
+    media-plugins/alsa-plugins-1.1.1-r1 requires media-video/ffmpeg:0=, media-video/ffmpeg:0/55.57.57=
+    media-plugins/gst-plugins-libav-1.10.4 requires >=media-video/ffmpeg-3.2.4:0=[abi_x86_32(-),abi_x86_64(-)], >=media-video/ffmpeg-3.2.4:0/55.57.57=[abi_x86_32(-),abi_x86_64(-)]
+    media-video/guvcview-2.0.3 requires >=media-video/ffmpeg-2.8:0/55.57.57=, >=media-video/ffmpeg-2.8:0=
+    media-video/simplescreenrecorder-0.3.8 requires media-video/ffmpeg
+    media-video/vlc-2.2.4-r1 requires media-video/ffmpeg:0/55.57.57=[vaapi], media-video/ffmpeg:0/55.57.57=, media-video/ffmpeg:0=, media-video/ffmpeg:0=[vaapi]
+    virtual/ffmpeg-9-r2 requires >=media-video/ffmpeg-1.2.6-r1:0[X,encode,threads,truetype,vaapi,vdpau]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires media-video/ffmpeg:0=[vaapi,vdpau], media-video/ffmpeg:0/55.57.57=[vaapi,vdpau]
+
+media-video/guvcview: 2.0.3 none none 
+
+All selected packages: =media-video/guvcview-2.0.3
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+media-video/simplescreenrecorder: 0.3.8 none none 
+
+All selected packages: =media-video/simplescreenrecorder-0.3.8
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  media-video/vlc-2.2.4-r1 pulled in by:
+    media-libs/phonon-vlc-0.9.0 requires >=media-video/vlc-2.0.1:0/5-8=[dbus,ogg,vorbis], >=media-video/vlc-2.0.1:=[dbus,ogg,vorbis]
+    media-sound/tomahawk-0.9.0_pre20161029-r1 requires media-video/vlc:=[flac,dvbpsi,ffmpeg,mp3], media-video/vlc:0/5-8=[flac,dvbpsi,ffmpeg,mp3]
+
+net-analyzer/speedtest-cli: 0.3.4-r1 none none 
+
+All selected packages: =net-analyzer/speedtest-cli-0.3.4-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-dialup/mingetty: 1.08-r1 none none 
+
+All selected packages: =net-dialup/mingetty-1.08-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-fs/autofs: 5.1.2 none none 
+
+All selected packages: =net-fs/autofs-5.1.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  net-libs/glib-networking-2.50.0 pulled in by:
+    net-libs/libsoup-2.56.0 requires >=net-libs/glib-networking-2.38.2[ssl,abi_x86_32(-),abi_x86_64(-)]
+
+  net-libs/gnutls-3.5.12 pulled in by:
+    app-crypt/gnupg-2.1.20-r1 requires >=net-libs/gnutls-3.0:0/30=, >=net-libs/gnutls-3.0:0=
+    media-sound/tomahawk-0.9.0_pre20161029-r1 requires >=net-libs/gnutls-3.2:=, >=net-libs/gnutls-3.2:0/30=
+    media-video/ffmpeg-3.2.4 requires >=net-libs/gnutls-2.12.23-r6:0/30=[abi_x86_32(-),abi_x86_64(-)], >=net-libs/gnutls-2.12.23-r6:=[abi_x86_32(-),abi_x86_64(-)]
+    media-video/vlc-2.2.4-r1 requires >=net-libs/gnutls-3.0.20:0
+    net-libs/glib-networking-2.50.0 requires >=net-libs/gnutls-3:0/30=[abi_x86_32(-),abi_x86_64(-)], >=net-libs/gnutls-3:=[abi_x86_32(-),abi_x86_64(-)]
+    net-libs/neon-0.30.2 requires net-libs/gnutls:0=[abi_x86_32(-),abi_x86_64(-)], net-libs/gnutls:0/30=[abi_x86_32(-),abi_x86_64(-)]
+    net-misc/networkmanager-1.4.4-r1 requires >=net-libs/gnutls-2.12:0/30=[abi_x86_32(-),abi_x86_64(-)], >=net-libs/gnutls-2.12:=[abi_x86_32(-),abi_x86_64(-)]
+    net-misc/wget-1.19.1-r1 requires net-libs/gnutls:0/30=, net-libs/gnutls:0=
+    net-nds/openldap-2.4.44 requires >=net-libs/gnutls-2.12.23-r6[abi_x86_32(-),abi_x86_64(-)]
+    net-print/cups-2.1.4 requires >=net-libs/gnutls-2.12.23-r6[abi_x86_32(-),abi_x86_64(-)]
+
+net-libs/mbedtls: 2.4.2 none none 
+
+All selected packages: =net-libs/mbedtls-2.4.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  net-libs/neon-0.30.2 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires net-libs/neon
+
+  net-misc/curl-7.53.0 pulled in by:
+    app-crypt/gnupg-2.1.20-r1 requires >=net-misc/curl-7.10
+    app-office/libreoffice-5.2.7.2 requires net-misc/curl
+    app-text/mupdf-1.11-r1 requires net-misc/curl
+    dev-cpp/libcmis-0.5.2_pre20160820 requires net-misc/curl
+    dev-util/cmake-3.7.2 requires >=net-misc/curl-7.21.5[ssl]
+    dev-vcs/git-2.13.0 requires net-misc/curl
+    games-action/minetest-0.4.14 requires net-misc/curl
+    games-util/steam-launcher-1.0.0.53 requires net-misc/curl
+    media-libs/raptor-2.0.14 requires net-misc/curl
+    net-p2p/transmission-2.92-r2 requires >=net-misc/curl-7.16.3[ssl]
+
+net-misc/dhcpcd-ui: 0.7.5-r1 none none 
+
+All selected packages: =net-misc/dhcpcd-ui-0.7.5-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  net-misc/netifrc-0.5.1 pulled in by:
+    sys-apps/openrc-0.26.3 requires net-misc/netifrc
+
+  net-misc/networkmanager-1.4.4-r1 pulled in by:
+    kde-frameworks/networkmanager-qt-5.29.0 requires >=net-misc/networkmanager-1.4.0-r1[consolekit,-teamd]
+    kde-plasma/plasma-nm-5.8.6 requires >=net-misc/networkmanager-0.9.10.0[-teamd]
+    www-client/firefox-53.0.3 requires net-misc/networkmanager
+
+net-misc/ntp: 4.2.8_p9 none none 
+
+All selected packages: =net-misc/ntp-4.2.8_p9
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-misc/teamviewer: 12.0.76279 none none 
+
+All selected packages: =net-misc/teamviewer-12.0.76279
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-p2p/transmission: 2.92-r2 none none 
+
+All selected packages: =net-p2p/transmission-2.92-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-vpn/tor: 0.2.9.10 none none 
+
+All selected packages: =net-vpn/tor-0.2.9.10
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+net-wireless/wireless-tools: 30_pre9 none none 
+
+All selected packages: =net-wireless/wireless-tools-30_pre9
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sci-visualization/gnuplot: 5.0.1-r1 none none 
+
+All selected packages: =sci-visualization/gnuplot-5.0.1-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/dmidecode: 3.0 none none 
+
+All selected packages: =sys-apps/dmidecode-3.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/hdparm: 9.51 none none 
+
+All selected packages: =sys-apps/hdparm-9.51
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/hprofile: 3.2.2 none none 
+
+All selected packages: =sys-apps/hprofile-3.2.2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/iucode_tool: 2.1.1 none none 
+
+All selected packages: =sys-apps/iucode_tool-2.1.1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/microcode-ctl: 1.23 none none 
+
+All selected packages: =sys-apps/microcode-ctl-1.23
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-apps/mlocate: 0.26-r2 none none 
+
+All selected packages: =sys-apps/mlocate-0.26-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-apps/pciutils-3.4.1 pulled in by:
+    kde-plasma/kinfocenter-5.8.6 requires sys-apps/pciutils
+    sys-boot/efibootmgr-14 requires sys-apps/pciutils
+    sys-power/powertop-2.8 requires sys-apps/pciutils
+    sys-power/suspend-1.0_p20150810 requires >=sys-apps/pciutils-2.2.4
+
+sys-apps/usbutils: 008-r1 none none 
+
+All selected packages: =sys-apps/usbutils-008-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-auth/consolekit-1.1.0-r1 pulled in by:
+    kde-plasma/powerdevil-5.8.6 requires >=sys-auth/consolekit-1.0.1
+    net-misc/networkmanager-1.4.4-r1 requires >=sys-auth/consolekit-1.0.0
+    sys-apps/accountsservice-0.6.43 requires sys-auth/consolekit
+    sys-auth/polkit-0.113 requires sys-auth/consolekit[policykit]
+
+sys-block/gparted: 0.27.0 none none 
+
+All selected packages: =sys-block/gparted-0.27.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-block/parted-3.2 pulled in by:
+    sys-block/gparted-0.27.0 requires >=sys-block/parted-3.2:0/0=, >=sys-block/parted-3.2:=
+    sys-fs/udisks-2.1.8 requires >=sys-block/parted-3
+
+sys-boot/efibootmgr: 14 none none 
+
+All selected packages: =sys-boot/efibootmgr-14
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-boot/unetbootin: 625 none none 
+
+All selected packages: =sys-boot/unetbootin-625
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-devel/gcc-5.4.0-r3 pulled in by:
+    @system requires sys-devel/gcc
+    app-text/pdftk-2.02 requires sys-devel/gcc[gcj]
+    dev-java/icedtea-bin-3.4.0 requires >=sys-devel/gcc-5.4.0[multilib]
+    dev-java/icedtea-bin-7.2.6.10 requires >=sys-devel/gcc-4.9.3[multilib]
+    games-util/steam-launcher-1.0.0.53 requires >=sys-devel/gcc-4.6.0[multilib]
+    media-libs/mesa-13.0.5 requires >=sys-devel/gcc-4.6
+    sys-devel/llvm-3.9.1-r1 requires >=sys-devel/gcc-3.0
+    sys-libs/glibc-2.23-r3 requires >=sys-devel/gcc-4.7
+    www-client/firefox-53.0.3 requires >=sys-devel/gcc-4.5
+
+  sys-firmware/intel-microcode-20161104 pulled in by:
+    sys-apps/microcode-ctl-1.23 requires >=sys-firmware/intel-microcode-20090330
+
+sys-fs/dosfstools: 4.0-r1 none none 
+
+All selected packages: =sys-fs/dosfstools-4.0-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-fs/exfat-utils: 1.2.4 none none 
+
+All selected packages: =sys-fs/exfat-utils-1.2.4
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-fs/fuse-exfat: 1.2.4 none none 
+
+All selected packages: =sys-fs/fuse-exfat-1.2.4
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-fs/mtpfs: 1.0 none none 
+
+All selected packages: =sys-fs/mtpfs-1.0
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-fs/ntfs3g: 2016.2.22-r2 none none 
+
+All selected packages: =sys-fs/ntfs3g-2016.2.22-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-kernel/genkernel: 3.4.52.4-r2 none none 
+
+All selected packages: =sys-kernel/genkernel-3.4.52.4-r2
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-kernel/gentoo-sources-4.9.16 pulled in by:
+    virtual/linux-sources-3 requires sys-kernel/gentoo-sources
+
+sys-kernel/linux-firmware: 20170314 none none 
+
+All selected packages: =sys-kernel/linux-firmware-20170314
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-kernel/linux-headers-4.4 pulled in by:
+    dev-libs/libbsd-0.8.3 requires >=sys-kernel/linux-headers-3.17
+    dev-qt/qtgui-5.6.2 requires sys-kernel/linux-headers
+    media-gfx/sane-backends-1.0.25-r1 requires sys-kernel/linux-headers
+    media-video/ffmpeg-3.2.4 requires sys-kernel/linux-headers
+    net-misc/networkmanager-1.4.4-r1 requires >=sys-kernel/linux-headers-2.6.29
+    sys-apps/busybox-1.25.1 requires >=sys-kernel/linux-headers-2.6.39
+    sys-apps/iproute2-4.4.0 requires >=sys-kernel/linux-headers-3.16
+    sys-fs/udev-225-r1 requires >=sys-kernel/linux-headers-3.9
+    sys-fs/udisks-2.1.8 requires >=sys-kernel/linux-headers-3.1
+    sys-libs/efivar-30 requires >=sys-kernel/linux-headers-3.18
+    sys-libs/libcap-2.24-r2 requires sys-kernel/linux-headers
+    sys-libs/libseccomp-2.3.2 requires >=sys-kernel/linux-headers-4.3
+    sys-libs/mtdev-1.1.5 requires >=sys-kernel/linux-headers-2.6.31
+    virtual/os-headers-0 requires sys-kernel/linux-headers:0
+    x11-drivers/xf86-input-evdev-2.10.5 requires >=sys-kernel/linux-headers-2.6
+    x11-drivers/xf86-input-synaptics-1.9.0 requires >=sys-kernel/linux-headers-2.6.37
+
+  sys-libs/binutils-libs-2.27 pulled in by:
+    cross-avr/binutils-2.26.1 requires >=sys-libs/binutils-libs-2.26.1
+    x11-libs/cairo-1.14.8 requires sys-libs/binutils-libs:0=[abi_x86_32(-),abi_x86_64(-)], sys-libs/binutils-libs:0/2.27=[abi_x86_32(-),abi_x86_64(-)]
+
+sys-libs/libstdc++-v3: 3.3.6-r1 none none 
+
+All selected packages: =sys-libs/libstdc++-v3-3.3.6-r1
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-power/acpi: 1.6 none none 
+
+All selected packages: =sys-power/acpi-1.6
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-power/powertop: 2.8 none none 
+
+All selected packages: =sys-power/powertop-2.8
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+sys-power/suspend: 1.0_p20150810 none none 
+
+All selected packages: =sys-power/suspend-1.0_p20150810
+Packages installed:   1195
+Packages in world:    178
+Packages in system:   44
+Required packages:    1194
+Number to remove:     1
+  sys-power/upower-0.99.4 pulled in by:
+    kde-plasma/powerdevil-5.8.6 requires >=sys-power/upower-0.9.23
+    x11-misc/sddm-0.14.0-r2 requires sys-power/upower
+
+  virtual/jre-1.8.0-r1 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires =virtual/jre-1.8.0-r1, >=virtual/jre-1.6
+    dev-embedded/arduino-1.0.5-r1 requires >=virtual/jre-1.5, =virtual/jre-1.8.0-r1
+    dev-java/icedtea-web-1.6.1-r1 requires >=virtual/jre-1.7, =virtual/jre-1.8.0-r1
+    dev-java/jna-3.4.1 requires =virtual/jre-1.8.0-r1, >=virtual/jre-1.6
+    dev-java/rxtx-2.2_pre2 requires =virtual/jre-1.8.0-r1, >=virtual/jre-1.4
+    dev-tex/tex4ht-20090611_p1038-r5 requires >=virtual/jre-1.5, =virtual/jre-1.8.0-r1
+    media-libs/libjpeg-turbo-1.5.1 requires >=virtual/jre-1.5, =virtual/jre-1.8.0-r1
+    net-dns/libidn-1.33 requires =virtual/jre-1.8.0-r1, >=virtual/jre-1.5
+    net-print/cups-2.1.4 requires =virtual/jre-1.8.0-r1, >=virtual/jre-1.6:*
+    sys-devel/gettext-0.19.8.1 requires >=virtual/jre-1.4, =virtual/jre-1.8.0-r1
+    sys-libs/db-5.3.28-r2 requires >=virtual/jre-1.5, =virtual/jre-1.8.0-r1
+
+virtual/linux-sources: 3 none none 
+
+All selected packages: =virtual/linux-sources-3
+Packages installed:   1197
+Packages in world:    178
+Packages in system:   44
+Required packages:    1195
+Number to remove:     1
+virtual/opencl: 0-r4 none none 
+
+All selected packages: =virtual/opencl-0-r4
+Packages installed:   1198
+Packages in world:    178
+Packages in system:   44
+Required packages:    1196
+Number to remove:     1
+www-client/firefox: 53.0.3 none none 
+
+All selected packages: =www-client/firefox-53.0.3
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+  www-plugins/adobe-flash-25.0.0.171 pulled in by:
+    www-plugins/freshplayerplugin-0.3.5-r2 requires www-plugins/adobe-flash:22
+
+www-plugins/freshplayerplugin: 0.3.5-r2 none none 
+
+All selected packages: =www-plugins/freshplayerplugin-0.3.5-r2
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+x11-apps/intel-gpu-tools: 1.15 none none 
+
+All selected packages: =x11-apps/intel-gpu-tools-1.15
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+x11-apps/mesa-progs: 8.3.0 none none 
+
+All selected packages: =x11-apps/mesa-progs-8.3.0
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+x11-apps/xrandr: 1.5.0 none none 
+
+All selected packages: =x11-apps/xrandr-1.5.0
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+  x11-base/xorg-drivers-1.19 pulled in by:
+    x11-base/xorg-server-1.19.2 requires >=x11-base/xorg-drivers-1.19
+
+  x11-base/xorg-server-1.19.2 pulled in by:
+    www-client/firefox-53.0.3 requires x11-base/xorg-server[xvfb]
+    x11-base/xorg-drivers-1.19 requires >=x11-base/xorg-server-1.19[glamor]
+    x11-drivers/xf86-input-evdev-2.10.5 requires >=x11-base/xorg-server-1.18[udev], x11-base/xorg-server:=, x11-base/xorg-server:0/1.19.2=, x11-base/xorg-server[xorg]
+    x11-drivers/xf86-input-synaptics-1.9.0 requires >=x11-base/xorg-server-1.14, x11-base/xorg-server[xorg], x11-base/xorg-server:0/1.19.2=, x11-base/xorg-server:=
+    x11-drivers/xf86-video-intel-2.99.917_p20170216 requires x11-base/xorg-server:0/1.19.2=, >=x11-base/xorg-server-1.10, x11-base/xorg-server[xorg], >=x11-base/xorg-server-1.18, x11-base/xorg-server[-minimal], x11-base/xorg-server:=
+    x11-misc/sddm-0.14.0-r2 requires >=x11-base/xorg-server-1.15.1
+
+  x11-drivers/xf86-input-evdev-2.10.5 pulled in by:
+    kde-plasma/plasma-desktop-5.8.6 requires x11-drivers/xf86-input-evdev
+    x11-base/xorg-drivers-1.19 requires x11-drivers/xf86-input-evdev
+
+  x11-drivers/xf86-input-synaptics-1.9.0 pulled in by:
+    kde-plasma/plasma-desktop-5.8.6 requires x11-drivers/xf86-input-synaptics
+    x11-base/xorg-drivers-1.19 requires x11-drivers/xf86-input-synaptics
+
+x11-drivers/xf86-video-intel: 2.99.917_p20170216 none none 
+
+All selected packages: =x11-drivers/xf86-video-intel-2.99.917_p20170216
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+  x11-libs/libXrandr-1.5.1 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires x11-libs/libXrandr
+    dev-qt/qtgui-4.8.7 requires >=x11-libs/libXrandr-1.4.0-r1[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/freeglut-3.0.0 requires >=x11-libs/libXrandr-1.4.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/glfw-3.2.1 requires x11-libs/libXrandr
+    media-libs/libsdl-1.2.15-r9 requires >=x11-libs/libXrandr-1.4.2[abi_x86_32(-),abi_x86_64(-)]
+    media-libs/libsdl2-2.0.4 requires >=x11-libs/libXrandr-1.4.2[abi_x86_32(-),abi_x86_64(-)]
+    net-misc/teamviewer-12.0.76279 requires x11-libs/libXrandr[abi_x86_32(-)]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires x11-libs/libXrandr:=, x11-libs/libXrandr:0/0=
+    x11-apps/xrandr-1.5.0 requires >=x11-libs/libXrandr-1.5
+    x11-libs/gtk+-2.24.31-r1 requires >=x11-libs/libXrandr-1.5[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gtk+-3.22.15 requires >=x11-libs/libXrandr-1.5[abi_x86_32(-),abi_x86_64(-)]
+
+  x11-libs/libXrender-0.9.10 pulled in by:
+    app-office/libreoffice-5.2.7.2 requires x11-libs/libXrender
+    dev-dotnet/libgdiplus-4.2-r3 requires x11-libs/libXrender
+    dev-java/icedtea-bin-3.4.0 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    dev-java/icedtea-bin-7.2.6.10 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtgui-4.8.7 requires >=x11-libs/libXrender-0.9.7-r1[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtgui-5.6.2 requires x11-libs/libXrender
+    dev-qt/qtopengl-4.8.7 requires >=x11-libs/libXrender-0.9.7-r1[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtwebkit-4.8.7 requires >=x11-libs/libXrender-0.9.7-r1[abi_x86_32(-),abi_x86_64(-)]
+    dev-qt/qtwebkit-5.6.2 requires x11-libs/libXrender
+    kde-frameworks/kio-5.29.0-r1 requires x11-libs/libXrender
+    kde-plasma/plasma-desktop-5.8.6 requires x11-libs/libXrender
+    kde-plasma/plasma-workspace-5.8.6 requires x11-libs/libXrender
+    mail-client/thunderbird-45.8.0 requires x11-libs/libXrender
+    media-gfx/scantailor-0.9.12.2 requires x11-libs/libXrender
+    www-client/firefox-53.0.3 requires x11-libs/libXrender
+    www-plugins/adobe-flash-25.0.0.171 requires x11-libs/libXrender[abi_x86_32(-),abi_x86_64(-)]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires x11-libs/libXrender:0/0=, x11-libs/libXrender:=
+    x11-apps/xrandr-1.5.0 requires x11-libs/libXrender
+    x11-libs/cairo-1.14.8 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gtk+-2.24.31-r1 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/libXcursor-1.1.14 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/libXft-2.3.2 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/libXrandr-1.5.1 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/pango-1.40.5 requires >=x11-libs/libXrender-0.9.8[abi_x86_32(-),abi_x86_64(-)]
+
+  x11-libs/libdrm-2.4.75 pulled in by:
+    kde-plasma/kwin-5.8.6 requires x11-libs/libdrm
+    media-libs/mesa-13.0.5 requires >=x11-libs/libdrm-2.4.72[abi_x86_32(-),abi_x86_64(-)], >=x11-libs/libdrm-2.4.72[video_cards_intel]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires x11-libs/libdrm:0/0=, x11-libs/libdrm:=
+    x11-apps/intel-gpu-tools-1.15 requires >=x11-libs/libdrm-2.4.64[video_cards_intel]
+    x11-base/xorg-server-1.19.2 requires >=x11-libs/libdrm-2.4.46
+    x11-drivers/xf86-video-intel-2.99.917_p20170216 requires >=x11-libs/libdrm-2.4.52[video_cards_intel], x11-libs/libdrm
+    x11-libs/libva-1.7.3 requires >=x11-libs/libdrm-2.4.46[abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/libva-intel-driver-1.7.3 requires >=x11-libs/libdrm-2.4.46[video_cards_intel,abi_x86_32(-),abi_x86_64(-)]
+
+  x11-libs/pango-1.40.5 pulled in by:
+    dev-cpp/pangomm-2.40.1 requires >=x11-libs/pango-1.38.0[abi_x86_32(-),abi_x86_64(-)]
+    dev-dotnet/gtk-sharp-2.12.21 requires x11-libs/pango
+    dev-python/pygtk-2.24.0-r4 requires >=x11-libs/pango-1.16
+    gnome-base/librsvg-2.40.17 requires >=x11-libs/pango-1.36.3[abi_x86_32(-),abi_x86_64(-)]
+    gnome-extra/zenity-3.22.0 requires x11-libs/pango
+    mail-client/thunderbird-45.8.0 requires >=x11-libs/pango-1.22.0
+    media-gfx/fontforge-20160404 requires >=x11-libs/pango-1.10:0=[X], x11-libs/pango:0=, x11-libs/pango:0/0=, >=x11-libs/pango-1.10:0/0=[X]
+    media-gfx/gimp-2.8.14-r2 requires >=x11-libs/pango-1.29.4
+    media-gfx/graphviz-2.38.0-r1 requires >=x11-libs/pango-1.12
+    media-gfx/inkscape-0.91-r3 requires >=x11-libs/pango-1.24
+    media-libs/gegl-0.2.0-r2 requires x11-libs/pango
+    media-libs/gst-plugins-base-1.10.3 requires >=x11-libs/pango-1.36.3[abi_x86_32(-),abi_x86_64(-)]
+    sci-visualization/gnuplot-5.0.1-r1 requires x11-libs/pango
+    www-client/firefox-53.0.3 requires >=x11-libs/pango-1.22.0
+    www-plugins/adobe-flash-25.0.0.171 requires x11-libs/pango[abi_x86_32(-),abi_x86_64(-)]
+    www-plugins/freshplayerplugin-0.3.5-r2 requires x11-libs/pango:0/0=[X], x11-libs/pango:=[X]
+    x11-libs/gtk+-2.24.31-r1 requires >=x11-libs/pango-1.36.3[introspection,abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/gtk+-3.22.15 requires >=x11-libs/pango-1.37.3[introspection,abi_x86_32(-),abi_x86_64(-)]
+    x11-libs/wxGTK-2.8.12.1-r1 requires x11-libs/pango[X]
+    x11-libs/wxGTK-3.0.2.0-r2 requires x11-libs/pango[X,abi_x86_32(-),abi_x86_64(-)]
+
+  x11-libs/pixman-0.34.0 pulled in by:
+    app-text/texlive-core-2015-r1 requires >=x11-libs/pixman-0.18
+    x11-base/xorg-server-1.19.2 requires >=x11-libs/pixman-0.27.2
+    x11-drivers/xf86-video-intel-2.99.917_p20170216 requires >=x11-libs/pixman-0.27.1
+    x11-libs/cairo-1.14.8 requires >=x11-libs/pixman-0.32.4[abi_x86_32(-),abi_x86_64(-)]
+
+  x11-misc/sddm-0.14.0-r2 pulled in by:
+    kde-plasma/plasma-meta-5.8.6 requires x11-misc/sddm
+    kde-plasma/sddm-kcm-5.8.6 requires x11-misc/sddm
+
+x11-misc/xdotool: 3.20150503.1-r1 none none 
+
+All selected packages: =x11-misc/xdotool-3.20150503.1-r1
+Packages installed:   1198
+Packages in world:    179
+Packages in system:   44
+Required packages:    1197
+Number to remove:     1
+  x11-plugins/enigmail-1.9.6.1-r1 pulled in by:
+    mail-client/thunderbird-45.8.0 requires >=x11-plugins/enigmail-1.9.6.1-r1
+
