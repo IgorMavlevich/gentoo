@@ -10,10 +10,8 @@ Currently, the stages are:
 4. **check:** run `revdep-rebuild` and `eix-test-obsolete` to check system state.
 
 ### Usage
-`make` or `make [stage]` if you use Makefile;
-or run the `update.sh`
-
-It will ask you before installing or removing packages (and may do so more than once).
+Run the `autoupdate.sh`
+It will not ask you anything.
 
 You may need to run it as root.
 
