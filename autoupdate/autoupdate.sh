@@ -1,6 +1,7 @@
 #! /bin/bash
 #List of commands to be executed, in order:
 declare -a SYNC=("emaint sync --allrepos"
+                 "layman -S"
                  "emerge --regen -q"
                  "eix-update")
 declare -a UPDATE=("emerge -uqv @system"
@@ -9,7 +10,7 @@ declare -a UPDATE=("emerge -uqv @system"
                    "emerge -uvqD @world")
 declare -a REBUILD=("emerge -uNUqv --with-bdeps=y @world"
                     "emerge -q @preserved-rebuild"
-                    "emerge -aq --depclean"
+                    "emerge -avq --depclean --alert"
                     "revdep-rebuild")
 declare -a CHECK=("eclean-dist -d"
                   "eclean-pkg"
@@ -38,7 +39,7 @@ statusUpdate(){
 }
 
 retry(){ #Reruns failed commands while changing their parameters
-    LOG_MESSAGE="retry"
+    LOG_MESSAGE="retry" #This whole concept is not working as intended
     local CMD=$1
     local ITERATION=$2
     
